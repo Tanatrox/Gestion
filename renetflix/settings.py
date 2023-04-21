@@ -95,11 +95,11 @@ WSGI_APPLICATION = 'renetflix.wsgi.application'
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.mysql',
-        'NAME': 'Renetflix',
+        'NAME': 'railway',
         'USER': 'root',
-        'PASSWORD': '25Spider95Man',
-        'HOST': 'localhost',
-        'PORT': '3306',
+        'PASSWORD': '7E4uRsESA8W38FQsuTUc',
+        'HOST': 'containers-us-west-131.railway.app',
+        'PORT': '7021',
     }
 }
 
