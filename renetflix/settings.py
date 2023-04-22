@@ -42,7 +42,7 @@ DEFAULT_FROM_EMAIL = "Estrada.Meza.Rene.99@gmail.com"
 
 # EMAIL_FILE_PATH = BASE_DIR / 'emails'
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ["*"]
 
 # Application definition
 
